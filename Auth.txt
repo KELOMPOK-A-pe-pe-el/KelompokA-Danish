@@ -1,0 +1,3 @@
+Fitur Auth (DEV-10)
+Status: In Progress
+Deskripsi: File untuk simulasi integrasi Jira dengan Git.
